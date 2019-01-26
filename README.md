@@ -22,8 +22,8 @@ Hi guys, this is Tiffany from the Department of English Language and Literature.
 ### idk
 
 ## Contacts
-Facebook: ![](https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_facebook-512.png=10x10)
-Instagram: ![](https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-512.png=10x10)
+Facebook: ![](https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_facebook-512.png =10x10)
+Instagram: ![](https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-512.png =10x10)
 
 Here is my photo:
 ![](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
