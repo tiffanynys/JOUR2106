@@ -1,6 +1,5 @@
 # JOUR2106
-
-Here is a text edit
+Hi guys, this is Tiffany. 
 
 * item 1
 * item 2
