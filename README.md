@@ -13,7 +13,7 @@ Hi guys, this is Tiffany from the Department of English Language and Literature.
 * item 2
 * item 3
 
-## Looking for partners
+## Looking for Project Partners
 
 * item 1
 * item 2
