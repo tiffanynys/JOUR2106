@@ -26,5 +26,4 @@ Facebook: ![](https://cdn2.iconfinder.com/data/icons/colorful-guache-social-medi
 
 Instagram: ![](https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-512.png)
 
-Here is my photo:
-![](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+Email: ![](https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/154/social-media_email-512.png)
