@@ -1,7 +1,7 @@
 # JOUR2106
 
 ## Self Introduction
-Hi guys, this is Tiffany from Department of English Language and Literature. 
+Hi guys, this is Tiffany from the Department of English Language and Literature. 
 
 * item 1
 * item 2
