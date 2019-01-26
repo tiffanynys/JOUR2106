@@ -7,9 +7,17 @@ Hi guys, this is Tiffany.
 * item 2
 * item 3
 
-## head 2
+## Project Proposals
 
-### head 
+* item 1
+* item 2
+* item 3
+
+### Looking for partners
+
+* item 1
+* item 2
+* item 3
 
 ## heading 2
 
