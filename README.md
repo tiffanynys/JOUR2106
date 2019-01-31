@@ -5,16 +5,14 @@ Hi guys, this is Tiffany, a final-year student from the Department of English La
 
 * Self-motivated and resilient 
 * Tried to code, but failed. *Fail better this time, maybe?*
-* <font color='red'> WARNING: I skip class when I am stressed .. *Bad habit, I know.* </font>
+* WARNING: I skip class when I am stressed .. *Bad habit, I know.* 
 
 ## Project Proposals
 
-* item 1
-* item 2
-* item 3
+* Flat-selling: Is this an effective way to raise funds?
+* Recycling industry in Hong Kong
 
 ## Looking for Project Partners who is ...
 
 * Highly supportive ;-)
 * Straight and direct
-* item 3
