@@ -5,7 +5,7 @@ Hi guys, this is Tiffany, a final-year student from the Department of English La
 
 * Self-motivated and resilient 
 * Tried to code, but failed. *Fail better this time, maybe?*
-* <span style="color:red"> WARNING: I skip class when I am stressed .. *Bad habit, I know.* </span>
+* <font color='red'> WARNING: I skip class when I am stressed .. *Bad habit, I know.* </font>
 
 ## Project Proposals
 
