@@ -1,7 +1,7 @@
 # JOUR2106
 
 ## Self Introduction
-Hi guys, this is Tiffany, a final-year student from the Department of English Language and Literature. 
+Hi guys! I am Tiffany, a final-year student from Department of English Language and Literature. 
 
 * Self-motivated and resilient 
 * Tried to code, but failed. *Fail better this time, maybe?*
